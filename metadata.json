@@ -1,0 +1,6 @@
+{
+  "name": "Portable Cabin — Mobile Building Service",
+  "description": "Portable Cabin manufacturer and shipping container supplier in Hyderabad serving PAN India. Custom-built cabins, container offices, site offices, security cabins, home cabins, portable toilets, and café cabins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
